@@ -1,0 +1,6 @@
+#ifndef LPM_DEFINITIONS_H
+#define LPM_DEFINITIONS_H
+
+
+
+#endif // LPM_DEFINITIONS_H
